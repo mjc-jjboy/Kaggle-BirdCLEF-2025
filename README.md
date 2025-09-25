@@ -1,2 +1,2 @@
 # Kaggle-BirdCLEF-2025
-silver medalist solution
+45TH silver medalist solution
